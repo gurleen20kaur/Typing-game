@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: lightcyan;  
+    font-size: 20px;
+}
+
+h1{
+    color: blanchedalmond;
+    font-family: Cambria;
+}
+
+p {
+    font-family: 'Times New Roman';
+}
+
+.highlight {
+    background-color: blue;
+  }
+  
+  .error {
+    background-color: lightcoral;
+    border: red;
+  }
